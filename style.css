@@ -78,7 +78,7 @@ body {
 }
 
 .clock .hand.second {
-  width: 10px;
+  width: 3px;
   height: 45%;
   background-color: red;
 }
